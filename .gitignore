@@ -1,0 +1,47 @@
+# Visual Studio local state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# C/C++ IntelliSense and generated databases
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+ipch/
+
+# Build output
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+bin/
+obj/
+out/
+kursovay.7F6234AF/
+
+# Generated resource-editor and compiler files
+*.aps
+*.ncb
+*.pch
+*.obj
+*.idb
+*.pdb
+*.ilk
+*.tlog
+*.lastbuildstate
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Operating-system files
+Thumbs.db
+Desktop.ini
+
+# Empty unreferenced local stub; the project uses CKompas.h
+/kompas.h
+
